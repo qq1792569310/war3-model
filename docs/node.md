@@ -11,7 +11,7 @@ console.log(parseMDL('...'));
 ```
 
 This should be bundled or requires Node.js >= 13
-nihao
+
 ### Common js module
 
 ```js
